@@ -2,7 +2,31 @@
 # Connext
 A social media website.
 =======
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project is built using ReactJS, Material UI and Firebase.
+
+Features: 
+
+1. Landing Page:
+
+Landing Page displays the logo of the connext and a sign-in button. Users can sign in by clicking sign-in button. 
+Clicking the sign-in button will open a google authentication pop-up.
+
+https://github.com/Ranjithkumar3/Connext/blob/master/screenshots/Landing%20page.PNG?raw=true
+
+2. Authentication:
+
+A google sign-in authentication op-up will open where users need to choose an appropriate account. Once authentication is complete, 
+user will be directed to homepage.
+
+https://github.com/Ranjithkumar3/Connext/blob/master/screenshots/Authentication.PNG?raw=true
+
+3. Home Page:
+
+Home Page has various features. One among them, user can post any content, photos, GIFs, videos and can even go live using post feature. 
+Users can view other user's posts,etc.
+
+https://github.com/Ranjithkumar3/Connext/blob/master/screenshots/Homepage.PNG?raw=true
 
 ## Available Scripts
 
